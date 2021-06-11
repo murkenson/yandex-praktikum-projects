@@ -1,1 +1,1 @@
-# yandex-praktikum-projects
+# Аналитик данных — Яндекс.Практикум
