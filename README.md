@@ -1,9 +1,3 @@
-<h1 style="font-weight:normal" align="center">
-  &nbsp;Портфолио проектов по аналитике данных&nbsp;
-</h1>
-<br>
-
-
 # Аналитик данных — Яндекс.Практикум
 
 Этот репозиторий посвящен учебным проектам, которые я выполнила за время прохождения курса по «Анализу Данных» на [Яндекс.Практикуме](https://praktikum.yandex.ru/data-analyst/).
@@ -31,7 +25,7 @@
 <br>
 <span align="center">
   
-[E-mail](mailto:dasibirin@gmail.com) 🔹 [Telegram](https://t.me/amid_si) 🔹 [Twitter](https://twitter.com/amid_si)
+[E-mail](murkenson@protonmail.com) 🔹 [Telegram](https://t.me/murkenson) 🔹 [Instagram](https://www.instagram.com/mur.kenson/)
 
 ![Diploma](https://drive.google.com/uc?export=view&id=1tFv6hM0jwUZlhKNiAZD-P7JuHNaPhx6D)
 
