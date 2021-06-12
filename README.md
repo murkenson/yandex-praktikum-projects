@@ -4,7 +4,7 @@
 
 ![](poster="https://pictures.s3.yandex.net/landing-img/Analyst.jpg")
 
-<a href="{video-url}" title="Link Title"><img src="{image-url}" alt="Alternate Text" /></a>
+<a href="{https://pictures.s3.yandex.net/landings-video/Analyst.webm}" title="Link Title"><img src="{https://pictures.s3.yandex.net/landings-video/Analyst.webm}" alt="Alternate Text" /></a>
 
 
 [![Alternate Text]({https://pictures.s3.yandex.net/landing-img/Analyst.jpg})]({https://pictures.s3.yandex.net/landing-img/Analyst.jpg} "Link Title")
