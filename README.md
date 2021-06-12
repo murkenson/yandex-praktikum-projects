@@ -9,8 +9,7 @@
 ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
+![](http://i.imgur.com/60bts.gif)
 
 Программа обучения помогла мне научиться исследовать, обрабатывать и систематизировать данные, выявлять закономерности, делать предположения и четко сообщать важные выводы.
 
