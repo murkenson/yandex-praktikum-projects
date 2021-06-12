@@ -4,6 +4,10 @@
 
 ![](poster="https://pictures.s3.yandex.net/landing-img/Analyst.jpg")
 
+
+[![Alternate Text]({https://pictures.s3.yandex.net/landing-img/Analyst.jpg})]({https://pictures.s3.yandex.net/landing-img/Analyst.jpg} "Link Title")
+
+
 Программа обучения помогла мне научиться исследовать, обрабатывать и систематизировать данные, выявлять закономерности, делать предположения и четко сообщать важные выводы.
 
 # Описание проектов
