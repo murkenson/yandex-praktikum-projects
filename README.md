@@ -25,7 +25,7 @@
 <br>
 <span align="center">
   
-:e-mail: [E-mail](murkenson@protonmail.com) 🔹 [Telegram](https://t.me/murkenson) 🔹 [Instagram](https://www.instagram.com/mur.kenson/)
+:e-mail: [E-mail](murkenson@protonmail.com) :small_orange_diamond: [Telegram](https://t.me/murkenson) :small_orange_diamond: [Instagram](https://www.instagram.com/mur.kenson/)
 
 ![Diploma](https://drive.google.com/uc?export=view&id=1tFv6hM0jwUZlhKNiAZD-P7JuHNaPhx6D)
 
