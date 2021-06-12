@@ -2,12 +2,11 @@
 
 Этот репозиторий посвящен учебным проектам, которые я выполнила за время прохождения курса по «Анализу Данных» на [Яндекс.Практикуме](https://praktikum.yandex.ru/data-analyst/).
 
-![](poster="https://pictures.s3.yandex.net/landing-img/Analyst.jpg")
+<video class="profession-top-section__video" pip="false" poster="https://pictures.s3.yandex.net/landing-img/Analyst.jpg" playsinline="" autoplay="" loop="" muted=""><source src="https://pictures.s3.yandex.net/landings-video/Analyst.webm" type="video/webm"><source src="https://pictures.s3.yandex.net/landings-video/Analyst.mp4" type="video/mp4"></video>
+
 
 <a href="{https://pictures.s3.yandex.net/landings-video/Analyst.webm}" title="Link Title"><img src="{https://pictures.s3.yandex.net/landings-video/Analyst.webm}" alt="Alternate Text" /></a>
 
-
-[![Alternate Text]({https://pictures.s3.yandex.net/landing-img/Analyst.jpg})]({https://pictures.s3.yandex.net/landing-img/Analyst.jpg} "Link Title")
 
 
 Программа обучения помогла мне научиться исследовать, обрабатывать и систематизировать данные, выявлять закономерности, делать предположения и четко сообщать важные выводы.
