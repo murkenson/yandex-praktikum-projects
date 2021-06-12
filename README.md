@@ -1,3 +1,9 @@
+<h1 style="font-weight:normal" align="center">
+  &nbsp;Портфолио проектов по аналитике данных&nbsp;
+</h1>
+<br>
+
+
 # Аналитик данных — Яндекс.Практикум
 
 Этот репозиторий посвящен учебным проектам, которые я выполнила за время прохождения курса по «Анализу Данных» на [Яндекс.Практикуме](https://praktikum.yandex.ru/data-analyst/).
@@ -22,8 +28,11 @@
 9|Анализ взаимодействия пользователей с карточками Яндекс.Дзен|[Дашборд](https://public.tableau.com/app/profile/murad1841/viz/YandexZenAnalysisDashboard_16231755621970/sheet0) для менеджеров по анализу контента. Сгрегировал данные и сверстал дашборд с основными типами графиков и элементами управления. (в первоначальном варианте проект был выполнен на локальной машине с помощью dash, но позже я разобрался с Tableu.Public и разместила в сети в этом варианте). Подготовил [презентацию](https://docs.google.com/presentation/d/1-edFpQyjorAYpj0njkRX8cKD4uhDusc-IeCTPQybPAc/edit?usp=sharing) для клиента|```pandas, dash, dash_core_components, dash_html_components, dash.dependencies, datetime, plotly.graph_objs.```
 
 
-<div class="myWrapper" markdown="1">
-# my markdown content
+<br>
+<span align="center">
+  
+[E-mail](mailto:dasibirin@gmail.com) 🔹 [Telegram](https://t.me/amid_si) 🔹 [Twitter](https://twitter.com/amid_si)
 
-this content is wrapped into a div with class "myWrapper"
-</div>
+![Diploma](https://drive.google.com/uc?export=view&id=1tFv6hM0jwUZlhKNiAZD-P7JuHNaPhx6D)
+
+</span>
