@@ -22,4 +22,4 @@
 9|Анализ взаимодействия пользователей с карточками Яндекс.Дзен|[Дашборд](https://public.tableau.com/app/profile/murad1841/viz/YandexZenAnalysisDashboard_16231755621970/sheet0) для менеджеров по анализу контента. Сгрегировал данные и сверстал дашборд с основными типами графиков и элементами управления. (в первоначальном варианте проект был выполнен на локальной машине с помощью dash, но позже я разобрался с Tableu.Public и разместила в сети в этом варианте). Подготовил [презентацию](https://docs.google.com/presentation/d/1-edFpQyjorAYpj0njkRX8cKD4uhDusc-IeCTPQybPAc/edit?usp=sharing) для клиента|```pandas, dash, dash_core_components, dash_html_components, dash.dependencies, datetime, plotly.graph_objs.```
 
 
-<center> куа
+:ewdw:
