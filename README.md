@@ -27,7 +27,7 @@
 <br>
 <span align="center">
 I'm Murad  
-For enquiries, reach out @ murkenson@protonmail.com or over on [Telegram](https://t.me/murkenson)
+For enquiries, reach out @ murkenson@protonmail.com or over on ![Telegram](https://t.me/murkenson)
 
 ![Diploma](https://drive.google.com/uc?export=view&id=1tFv6hM0jwUZlhKNiAZD-P7JuHNaPhx6D)
 
