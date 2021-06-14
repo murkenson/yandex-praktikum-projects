@@ -21,6 +21,17 @@
 8|Анализ мобильного приложения продуктового магазина. Воронка продаж, А/А/В-тест[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11J8bFPJjdfLRGACDlNroONI4UMZvH-7D?usp=sharing)|Изучил воронку конверсии, проанализировал все шаги, которые покупатель проходит до покупки, выявила вероятные проблемы. Исследовал результаты проведенного А/А/В-теста, чтобы выяснить, какой шрифт лучше.|```pandas, plotly.express, numpy, math, proportions_ztest from statsmodels.stats.proportion.```
 9|Анализ взаимодействия пользователей с карточками Яндекс.Дзен|[Дашборд](https://public.tableau.com/app/profile/murad1841/viz/YandexZenAnalysisDashboard_16231755621970/sheet0) для менеджеров по анализу контента. Сгрегировал данные и сверстал дашборд с основными типами графиков и элементами управления. (в первоначальном варианте проект был выполнен на локальной машине с помощью dash, но позже я разобрался с Tableu.Public и разместила в сети в этом варианте). Подготовил [презентацию](https://docs.google.com/presentation/d/1-edFpQyjorAYpj0njkRX8cKD4uhDusc-IeCTPQybPAc/edit?usp=sharing) для клиента|```pandas, dash, dash_core_components, dash_html_components, dash.dependencies, datetime, plotly.graph_objs.```
 
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Адрес электронной почты</title>
+ </head>
+ <body> 
+  <p><a href="mailto: murkenson@protonmail.com">Задавайте 
+  вопросы по электронной почте</a></p> 
+ </body> 
+</html>
+
 
 <br>
 <span align="center">
@@ -30,3 +41,5 @@
 ![Diploma](https://drive.google.com/uc?export=view&id=1tFv6hM0jwUZlhKNiAZD-P7JuHNaPhx6D)
 
 </span>
+
+
