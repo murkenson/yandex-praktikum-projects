@@ -26,8 +26,8 @@
 
 <br>
 <span align="center">
-  
-[murkenson@protonmail.com](mailto:smurkenson@gmail.com):small_orange_diamond: [Telegram](https://t.me/murkenson) :small_orange_diamond: [Instagram](https://www.instagram.com/mur.kenson/)
+I'm Murad  
+For enquiries, reach out @ murkenson@protonmail.com or over on [Telegram](https://t.me/murkenson)
 
 ![Diploma](https://drive.google.com/uc?export=view&id=1tFv6hM0jwUZlhKNiAZD-P7JuHNaPhx6D)
 
