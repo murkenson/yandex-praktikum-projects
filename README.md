@@ -23,12 +23,16 @@
 
 
 
+<a href="https://github.com/iampawan">
+  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/imthepk">
+  <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://instagram.com/codepur_ka_superhero/">
+  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-<div class="ssk-group">
-    <a href="https://twitter.com/basedvalya" class="ssk ssk-telegram"></a>
-    <a href="" class="ssk ssk-instagram"></a>
-    <a href="" class="ssk ssk-linkedin"></a>
-</div>
 
 
 ![Diploma](https://drive.google.com/uc?export=view&id=1tFv6hM0jwUZlhKNiAZD-P7JuHNaPhx6D)
