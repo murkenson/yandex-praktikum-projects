@@ -24,17 +24,13 @@
 
 
 
-<br>
-<span align="center">
-I'm Murad  
-<span align="center">
-For enquiries, reach out @ murkenson@protonmail.com or over on [Telegram](https://t.me/murkenson) 
+<div class="ssk-group">
+    <a href="" class="ssk ssk-telegram"></a>
+    <a href="" class="ssk ssk-instagram"></a>
+    <a href="" class="ssk ssk-linkedin"></a>
+</div>
 
-</a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-  
+
 ![Diploma](https://drive.google.com/uc?export=view&id=1tFv6hM0jwUZlhKNiAZD-P7JuHNaPhx6D)
 
 </span>
