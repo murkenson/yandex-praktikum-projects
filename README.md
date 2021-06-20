@@ -23,6 +23,8 @@
 
 <br/>
 <br/>
+<span align="center">
+
 <a href="https://twitter.com/imthepk">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -36,6 +38,8 @@
 <a href="https://instagram.com/codepur_ka_superhero/">
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+</span>
+
 <br/>
 <br/>
 
