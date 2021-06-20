@@ -25,7 +25,7 @@
 
 
 <div class="ssk-group">
-    <a href="" class="ssk ssk-telegram"></a>
+    <a href="https://twitter.com/basedvalya" class="ssk ssk-telegram"></a>
     <a href="" class="ssk ssk-instagram"></a>
     <a href="" class="ssk ssk-linkedin"></a>
 </div>
