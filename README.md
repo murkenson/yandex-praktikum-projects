@@ -33,7 +33,10 @@
 </a>
 <br/>
 <br/>
+<span>
+
 ![Diploma](https://drive.google.com/uc?export=view&id=1tFv6hM0jwUZlhKNiAZD-P7JuHNaPhx6D)
+
 </span>
 
 
