@@ -35,7 +35,7 @@
 <br/>
 <span>
 
-![Diploma](https://drive.google.com/file/d/1qFip-T8fKldu3ijXk6jdK428p1qcmnBv/view)
+![Diploma](https://drive.google.com/file/d/1qFip-T8fKldu3ijXk6jdK428p1qcmnBv/view?usp=sharing)
 
 </span>
 
