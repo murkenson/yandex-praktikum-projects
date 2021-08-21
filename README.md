@@ -37,12 +37,17 @@
 
 ![Diploma](https://drive.google.com/file/d/1Cbl1dmSSjmLAPlgZa_7jduUt954KjIDT/view?usp=sharing)
 
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>How to disable downloading of the PDF document</h1>
+    <iframe src="/https://drive.google.com/file/d/1Cbl1dmSSjmLAPlgZa_7jduUt954KjIDT/view?usp=sharing" width="100%" height="500px">
+    </iframe>
+  </body>
+</html>
 
-
-
-<object data="https://drive.google.com/file/d/1Cbl1dmSSjmLAPlgZa_7jduUt954KjIDT/view?usp=sharing" type="application/pdf" width="300" height="200">
-<a href="https://drive.google.com/file/d/1Cbl1dmSSjmLAPlgZa_7jduUt954KjIDT/view?usp=sharing">Diploma</a>
-</object>
 
 </span>
 
