@@ -37,6 +37,10 @@
 
 ![Diploma](https://drive.google.com/file/d/1Cbl1dmSSjmLAPlgZa_7jduUt954KjIDT/view?usp=sharing)
 
+<iframe src="https://drive.google.com/file/d/1Cbl1dmSSjmLAPlgZa_7jduUt954KjIDT/view?usp=sharing" style="width:600px; height:500px;" frameborder="0"></iframe>
+
+
+
 </span>
 
 
