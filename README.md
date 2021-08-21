@@ -29,7 +29,7 @@
   
 [E-mail](mailto:smurkenson@gmail.com):small_orange_diamond: [Telegram](https://t.me/murkenson) :small_orange_diamond: [Instagram](https://www.instagram.com/mur.kenson/)
 
-![Diploma](https://drive.google.com/uc?export=view&id=1tFv6hM0jwUZlhKNiAZD-P7JuHNaPhx6D)
+![Diploma](https://drive.google.com/file/d/1Cbl1dmSSjmLAPlgZa_7jduUt954KjIDT/view?usp=sharing)
 
 </span>
 
