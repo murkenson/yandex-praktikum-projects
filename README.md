@@ -37,7 +37,7 @@
 
 ![Diploma](https://drive.google.com/file/d/1qFip-T8fKldu3ijXk6jdK428p1qcmnBv/view?usp=sharing)
 
-<a href="https://github.com/murkenson/yandex-praktikum-projects/blob/a03a4ab3024648e90a281787055574468f6d3e2f/Murad%20Arfanyan_Diploma.pdf" class="image fit" ><img src="images/marr_pic.jpg" alt=""></a>
+<a href="https://github.com/murkenson/yandex-praktikum-projects/blob/a03a4ab3024648e90a281787055574468f6d3e2f/Murad%20Arfanyan_Diploma.pdf" class="image fit" ><img src="https://drive.google.com/file/d/1qFip-T8fKldu3ijXk6jdK428p1qcmnBv/view" alt=""></a>
 
 Murad Arfanyan_Diploma.pdf
 
