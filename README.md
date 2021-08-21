@@ -37,17 +37,11 @@
 
 ![Diploma](https://drive.google.com/file/d/1Cbl1dmSSjmLAPlgZa_7jduUt954KjIDT/view?usp=sharing)
 
-<iframe
-    src="https://drive.google.com/file/d/1Cbl1dmSSjmLAPlgZa_7jduUt954KjIDT/view?usp=sharing)"
-    frameBorder="0"
-    scrolling="auto"
-    height="100%"
-    width="100%"
-></iframe>
+
 
 
 <object data="https://drive.google.com/file/d/1Cbl1dmSSjmLAPlgZa_7jduUt954KjIDT/view?usp=sharing" type="application/pdf" width="300" height="200">
-<a href="https://drive.google.com/file/d/1Cbl1dmSSjmLAPlgZa_7jduUt954KjIDT/view?usp=sharing">test.pdf</a>
+<a href="https://drive.google.com/file/d/1Cbl1dmSSjmLAPlgZa_7jduUt954KjIDT/view?usp=sharing">Diploma</a>
 </object>
 
 </span>
